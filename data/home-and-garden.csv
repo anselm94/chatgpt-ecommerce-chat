@@ -1,21 +1,21 @@
-ID,Title,Description in HTML,Vendor,Type,Tags,Variant Compare At Price,Variant Requires Shipping,Image Src,
-clay-plant-pot,Clay Plant Pot,Classic blown clay pot for plants,Company 123,Outdoor,Pot,9.99,,https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg,
-copper-light,Copper Light,Stylish copper bedside light,Company 123,Indoor,Copper,59.99,75,https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg,
-cream-sofa,Cream Sofa,Comfortable cream sofa with wooden base,Company 123,Indoor,Couch,500,750,https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg,
-antique-drawers,Antique Drawers,Antique wooden chest of drawers,Company 123,Indoor,Antique,250,300,https://burst.shopifycdn.com/photos/babys-room_925x.jpg,
-white-bed-clothes,White Bed Clothes,Sleek white bed clothes,Company 123,Indoor,Bed,35,true,https://burst.shopifycdn.com/photos/bright-hotel-room-bed_925x.jpg,
-pink-armchair,Pink Armchair,Stylish pink armchair,Company 123,Indoor,Chair,,true,https://burst.shopifycdn.com/photos/soft-pink-cushioned-armchair-in-stately-salon_925x.jpg,
-wooden-outdoor-table,Wooden Outdoor Table,Chic wooden outdoor garden table,Rustic LTD,Outdoor,Wood,99.99,,https://burst.shopifycdn.com/photos/cafe-patio_925x.jpg,
-brown-throw-pillows,Brown Throw Pillows,Stylish brown throw pillows,Rustic LTD,Indoor,Pillows,25.99,true,https://burst.shopifycdn.com/photos/bedroom-bed-with-brown-throw-pillows_925x.jpg,
-white-ceramic-pot,White Ceramic Pot,Homemade white ceramic flower pot,Rustic LTD,Indoor,Pot,15.99,30,https://burst.shopifycdn.com/photos/house-plant-in-white-pot_925x.jpg,
-yellow-watering-can,Yellow watering can,Vintage vibrant watering can,Rustic LTD,Outdoor,Plants,50,true,https://burst.shopifycdn.com/photos/flowers-in-yellow-watering-can_925x.jpg,
-gardening-hand-trowel,Gardening hand trowel,Metal gardening hand trowel with wooden handle,Rustic LTD,Outdoor,Plants,25,true,https://burst.shopifycdn.com/photos/spring-gardening-set-up_925x.jpg,
-biodegradable-cardboard-pots,Biodegradable cardboard pots,Biodegradable outdoor cardboard pots,Rustic LTD,Outdoor,Garden,10,,https://burst.shopifycdn.com/photos/potted-seeds_925x.jpg,
-grey-sofa,Grey Sofa,Large four seater grey sofa,Rustic LTD,Indoor,Sofa,35,true,https://burst.shopifycdn.com/photos/large-grey-sofa-by-brick-wall_925x.jpg,
-wooden-outdoor-slats,Wooden outdoor slats,Wooden outdoor fencing slats,Rustic LTD,Outdoor,Wood,25.99,35,https://burst.shopifycdn.com/photos/house-plant-on-wooden-slat-wall_925x.jpg,
-wooden-fence,Wooden Fence,Wooden garden fence,Rustic LTD,Outdoor,Garden,200,300,https://burst.shopifycdn.com/photos/picket-fence-flowers_925x.jpg,
-yellow-sofa,Yellow Sofa,Two seater yellow sofa with wooden legs,Home Sweet Home,Indoor,Sofa,150,true,https://burst.shopifycdn.com/photos/yellow-couch-by-black-and-white-mural_925x.jpg,
-knitted-throw-pillows,Knitted Throw Pillows,Homemade knitted throw pillows in a variety of colors,Home Sweet Home,Indoor,Pillows,25.99,true,https://burst.shopifycdn.com/photos/yellow-sofa-with-throw-pillows_925x.jpg,
-vanilla-candle,Vanilla candle,Vanilla scent candle in jar,Home Sweet Home,Indoor,Candle,30,true,https://burst.shopifycdn.com/photos/diy-organic-candle_925x.jpg,
-black-bean-bag,Black Beanbag,Black leather beanbag,Company 123,Indoor,Black,69.99,80,https://burst.shopifycdn.com/photos/comfortable-living-room-cat_925x.jpg,
-bedside-table,Bedside Table,Wooden bedside table,Company 123,Indoor,Wood,69.99,85,https://burst.shopifycdn.com/photos/dark-wall-bedside-table_925x.jpg,
+ID,Title,Description in HTML,Vendor,Type,Tags,Price (USD),Image Src
+clay-plant-pot,Clay Plant Pot,Classic blown clay pot for plants,Company 123,Outdoor,Pot,9.99,https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg
+copper-light,Copper Light,Stylish copper bedside light,Company 123,Indoor,Copper,59.99,https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg
+cream-sofa,Cream Sofa,Comfortable cream sofa with wooden base,Company 123,Indoor,Couch,500,https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg
+antique-drawers,Antique Drawers,Antique wooden chest of drawers,Company 123,Indoor,Antique,250,https://burst.shopifycdn.com/photos/babys-room_925x.jpg
+white-bed-clothes,White Bed Clothes,Sleek white bed clothes,Company 123,Indoor,Bed,35,https://burst.shopifycdn.com/photos/bright-hotel-room-bed_925x.jpg
+pink-armchair,Pink Armchair,Stylish pink armchair,Company 123,Indoor,Chair,40,https://burst.shopifycdn.com/photos/soft-pink-cushioned-armchair-in-stately-salon_925x.jpg
+wooden-outdoor-table,Wooden Outdoor Table,Chic wooden outdoor garden table,Rustic LTD,Outdoor,Wood,99.99,https://burst.shopifycdn.com/photos/cafe-patio_925x.jpg
+brown-throw-pillows,Brown Throw Pillows,Stylish brown throw pillows,Rustic LTD,Indoor,Pillows,25.99,https://burst.shopifycdn.com/photos/bedroom-bed-with-brown-throw-pillows_925x.jpg
+white-ceramic-pot,White Ceramic Pot,Homemade white ceramic flower pot,Rustic LTD,Indoor,Pot,15.99,https://burst.shopifycdn.com/photos/house-plant-in-white-pot_925x.jpg
+yellow-watering-can,Yellow watering can,Vintage vibrant watering can,Rustic LTD,Outdoor,Plants,50,https://burst.shopifycdn.com/photos/flowers-in-yellow-watering-can_925x.jpg
+gardening-hand-trowel,Gardening hand trowel,Metal gardening hand trowel with wooden handle,Rustic LTD,Outdoor,Plants,25,https://burst.shopifycdn.com/photos/spring-gardening-set-up_925x.jpg
+biodegradable-cardboard-pots,Biodegradable cardboard pots,Biodegradable outdoor cardboard pots,Rustic LTD,Outdoor,Garden,10,https://burst.shopifycdn.com/photos/potted-seeds_925x.jpg
+grey-sofa,Grey Sofa,Large four seater grey sofa,Rustic LTD,Indoor,Sofa,35,https://burst.shopifycdn.com/photos/large-grey-sofa-by-brick-wall_925x.jpg
+wooden-outdoor-slats,Wooden outdoor slats,Wooden outdoor fencing slats,Rustic LTD,Outdoor,Wood,25.99,https://burst.shopifycdn.com/photos/house-plant-on-wooden-slat-wall_925x.jpg
+wooden-fence,Wooden Fence,Wooden garden fence,Rustic LTD,Outdoor,Garden,200,https://burst.shopifycdn.com/photos/picket-fence-flowers_925x.jpg
+yellow-sofa,Yellow Sofa,Two seater yellow sofa with wooden legs,Home Sweet Home,Indoor,Sofa,150,https://burst.shopifycdn.com/photos/yellow-couch-by-black-and-white-mural_925x.jpg
+knitted-throw-pillows,Knitted Throw Pillows,Homemade knitted throw pillows in a variety of colors,Home Sweet Home,Indoor,Pillows,25.99,https://burst.shopifycdn.com/photos/yellow-sofa-with-throw-pillows_925x.jpg
+vanilla-candle,Vanilla candle,Vanilla scent candle in jar,Home Sweet Home,Indoor,Candle,30,https://burst.shopifycdn.com/photos/diy-organic-candle_925x.jpg
+black-bean-bag,Black Beanbag,Black leather beanbag,Company 123,Indoor,Black,69.99,https://burst.shopifycdn.com/photos/comfortable-living-room-cat_925x.jpg
+bedside-table,Bedside Table,Wooden bedside table,Company 123,Indoor,Wood,69.99,https://burst.shopifycdn.com/photos/dark-wall-bedside-table_925x.jpg

@@ -4,6 +4,7 @@
   "private": "true",
   "description": "A ChatBot powered by OpenAI GPT-3.5 which can answer questions based on e-commerce data",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -27,11 +28,16 @@
   },
   "homepage": "https://github.com/anselm94/chatbot-llm-ecommerce#readme",
   "dependencies": {
-    "langchain": "^0.0.36"
+    "@pinecone-database/pinecone": "^0.0.10",
+    "d3-dsv": "^3.0.1",
+    "dotenv": "^16.0.3",
+    "langchain": "^0.0.36",
+    "prompts": "^2.4.2"
   },
   "devDependencies": {
     "@tsconfig/node18": "^1.0.1",
     "@types/node": "^18.15.3",
+    "@types/prompts": "^2.4.3",
     "typescript": "^5.0.2"
   }
 }

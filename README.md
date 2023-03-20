@@ -12,7 +12,15 @@ A ChatBot powered by OpenAI GPT-3.5 which can answer questions based on e-commer
    npm install
    ```
 
-3. Run the program
+3. Start the [Langchain Tracer](https://langchain.readthedocs.io/en/latest/tracing.html) (Open http://localhost:4173/)
+
+   ```sh
+   docker-compose up
+   # OR
+   podman-compose up
+   ```
+
+4. Run the program
    ```sh
    npm run build && npm start
    ```
