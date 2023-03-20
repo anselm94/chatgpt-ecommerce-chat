@@ -6,7 +6,16 @@ A ChatBot powered by OpenAI GPT-3.5 which can answer questions based on e-commer
 
 1. Duplicate [`.env.example`](./.env.example) to `.env` file and paste in your [OpenAI Key](https://platform.openai.com/account/api-keys)
 
-2. Run the Jupyter Notebook
+2. Install dependencies
+
+   ```sh
+   npm install
+   ```
+
+3. Run the program
+   ```sh
+   npm run build && npm start
+   ```
 
 ## Credits
 
